@@ -1,0 +1,3 @@
+- Inter-Process Communication (IPC) is a mechanism that allows processes to communicate and synchronize their actions.
+- Message passing involves processes communicating with each other by sending and receiving messages
+  - 
